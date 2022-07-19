@@ -1,0 +1,7 @@
+const ConstructorArgs = [
+  ["0x768e25b305aF92DC2a610ac9D7a3732D7D049573"],
+  ["0xb3E9C57fB983491416a0C77b07629C0991c3FD59"],
+  ["0xc8186a3044D311eec1C1b57342Aaa290F6d90Aa5"],
+  ["0xb3E9C57fB983491416a0C77b07629C0991c3FD59"],
+] as const;
+export default ConstructorArgs;
