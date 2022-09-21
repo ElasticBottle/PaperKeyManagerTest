@@ -552,6 +552,11 @@
     proper-lockfile "^4.1.1"
     solidity-ast "^0.4.15"
 
+"@paperxyz/contracts@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@paperxyz/contracts/-/contracts-0.1.2.tgz#c50ce4fefd6d3331e5681392ca496fd0ced6b527"
+  integrity sha512-aDPhOy1aIT6B600Da6sdMRnhFgX2UWvqhe4869tkgJ7Fjf+TobS7gUQhvfAuiEBZoHA96OLLsgaTJAFxOBw5ug==
+
 "@scure/base@~1.1.0":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@scure/base/-/base-1.1.1.tgz#ebb651ee52ff84f420097055f4bf46cfba403938"

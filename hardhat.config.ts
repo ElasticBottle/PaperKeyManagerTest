@@ -46,7 +46,7 @@ const config: HardhatUserConfig = {
       forking: {
         url: `https://eth-mainnet.alchemyapi.io/v2/${ALCHEMY_API_KEY}`,
         // to enable caching for speeding up tests
-        blockNumber: 15170231,
+        blockNumber: 15583567,
       },
     },
     rinkeby: {
